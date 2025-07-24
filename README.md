@@ -1,19 +1,6 @@
 # 👾 CyberPutriX: The Code Enchantress 👾
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <p><strong>I’m Putri Axelia Vionica</strong>, better known as <strong>CyberPutriX</strong>, a whisper in the wires, a shadow in your code.  
-      I weave magic through binaries, break firewalls with a smile, and reign supreme in the art of reverse engineering.  
-      Inspired by cybersecurity queens like Parisa Tabriz and Joanna Rutkowska, I blend elegance with chaos, crafting exploits as delicate as lace and as deadly as a zero-day.  
-      <br><br>
-      Welcome to my digital realm—tread lightly, darling. 💾✨</p>
-    </td>
-    <td>
-      <img src="https://i.postimg.cc/mg7sH8nk/129371-744370499.gif" alt="CyberPutriX GIF" width="200">
-    </td>
-  </tr>
-</table>
+I’m **Putri Axelia Vionica**, better known as **CyberPutriX**, a whisper in the wires, a shadow in your code. I weave magic through binaries, break firewalls with a smile, and reign supreme in the art of reverse engineering. Inspired by cybersecurity queens like Parisa Tabriz and Joanna Rutkowska, I blend elegance with chaos, crafting exploits as delicate as lace and as deadly as a zero-day. Welcome to my digital realm—tread lightly, darling. 💾✨
 
 ## 🔮 What I’m Conjuring
 
